@@ -1,7 +1,11 @@
-Es un sistema creado para cocineros que permite calcular la conversion de gramos y mililitros a tazas. 
-Las medidas de la taza serian 
- 1 taza en gramos : 140gr 
- 1 taza en mililitros : 250 ml 
+Es un sistema creado para cocineros que permite calcular la conversion de gramos y mililitros a tazas.
+Le sume una conversion de distintos tipos de harina para que sea mas especifico, ya que cambian los gramos.
+
+"Harina de Trigo" 1 Taza: 110 gr
+"Azucar" 1 Taza: 225 gr
+"Azucar Impalpable" 1 Taza: 110 gr
+"Cacao" 1 Taza: 125 gr
 
 
-Sume el Array para que el usuario pueda incorporar los tipos de harina que utiliza.
+Liquidos= 1 Taza :250 ml
+Y sobre el final agregue Array para que el usuario pueda incorporar los tipos de harina que utiliza y no estan en el programa.
